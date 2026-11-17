@@ -35,9 +35,8 @@ You need [Node.js](https://nodejs.org/) (v18 or newer) and npm.
 
 ```bash
 # 1. Clone the repository
-git clone <your-repo-url>
-cd <your-repo-folder>
-
+git clone https://github.com/kuriajosh777/Lab-Blog-Site.git
+cd Lab-Blog-Site
 # 2. Install dependencies
 npm install
 
@@ -57,7 +56,7 @@ npm test
 
 ## Screenshot
 
-![Blog site screenshot](screenshot.png)
+![Blog site screenshot](labUI.png)
 
 ## Project structure
 
